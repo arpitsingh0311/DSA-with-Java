@@ -1,0 +1,301 @@
+Topic,Question #,Title,URL,Status
+Arrays & Hashing,217,Contains Duplicate,https://leetcode.com/problems/contains-duplicate/,Done
+Arrays & Hashing,242,Valid Anagram,https://leetcode.com/problems/valid-anagram/,Done
+Arrays & Hashing,1,Two Sum,https://leetcode.com/problems/two-sum/,Done
+Arrays & Hashing,49,Group Anagrams,https://leetcode.com/problems/group-anagrams/,Done
+Arrays & Hashing,347,Top K Frequent Elements,https://leetcode.com/problems/top-k-frequent-elements/,Done
+Arrays & Hashing,238,Product of Array Except Self,https://leetcode.com/problems/product-of-array-except-self/,Done
+Arrays & Hashing,36,Valid Sudoku,https://leetcode.com/problems/valid-sudoku/,Done
+Arrays & Hashing,128,Longest Consecutive Sequence,https://leetcode.com/problems/longest-consecutive-sequence/,Done
+Arrays & Hashing,271,Encode and Decode Strings,https://leetcode.com/problems/encode-and-decode-strings/,Leave
+Arrays & Hashing,448,Find All Numbers Disappeared in an Array,https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/,Done
+Arrays & Hashing,560,Subarray Sum Equals K,https://leetcode.com/problems/subarray-sum-equals-k/,Status
+Arrays & Hashing,15,3Sum,https://leetcode.com/problems/3sum/,Status
+Arrays & Hashing,53,Maximum Subarray,https://leetcode.com/problems/maximum-subarray/,Status
+Arrays & Hashing,121,Best Time to Buy and Sell Stock,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Status
+Arrays & Hashing,219,Contains Duplicate II,https://leetcode.com/problems/contains-duplicate-ii/,Status
+Arrays & Hashing,41,First Missing Positive,https://leetcode.com/problems/first-missing-positive/,Status
+Arrays & Hashing,75,Sort Colors,https://leetcode.com/problems/sort-colors/,Status
+Arrays & Hashing,442,Find All Duplicates in an Array,https://leetcode.com/problems/find-all-duplicates-in-an-array/,Status
+Arrays & Hashing,287,Find the Duplicate Number,https://leetcode.com/problems/find-the-duplicate-number/,Status
+Arrays & Hashing,18,4Sum,https://leetcode.com/problems/4sum/,Status
+Arrays & Hashing,169,Majority Element,https://leetcode.com/problems/majority-element/,Status
+Arrays & Hashing,229,Majority Element II,https://leetcode.com/problems/majority-element-ii/,Status
+Arrays & Hashing,54,Spiral Matrix,https://leetcode.com/problems/spiral-matrix/,Status
+Arrays & Hashing,48,Rotate Image,https://leetcode.com/problems/rotate-image/,Status
+Arrays & Hashing,73,Set Matrix Zeroes,https://leetcode.com/problems/set-matrix-zeroes/,Status
+Two Pointers,125,Valid Palindrome,https://leetcode.com/problems/valid-palindrome/,Status
+Two Pointers,167,Two Sum II - Input Array Is Sorted,https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/,Status
+Two Pointers,11,Container With Most Water,https://leetcode.com/problems/container-with-most-water/,Status
+Two Pointers,42,Trapping Rain Water,https://leetcode.com/problems/trapping-rain-water/,Status
+Two Pointers,88,Merge Sorted Array,https://leetcode.com/problems/merge-sorted-array/,Status
+Two Pointers,283,Move Zeroes,https://leetcode.com/problems/move-zeroes/,Status
+Two Pointers,344,Reverse String,https://leetcode.com/problems/reverse-string/,Status
+Two Pointers,977,Squares of a Sorted Array,https://leetcode.com/problems/squares-of-a-sorted-array/,Status
+Two Pointers,680,Valid Palindrome II,https://leetcode.com/problems/valid-palindrome-ii/,Status
+Two Pointers,151,Reverse Words in a String,https://leetcode.com/problems/reverse-words-in-a-string/,Status
+Sliding Window,3,Longest Substring Without Repeating Characters,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Status
+Sliding Window,424,Longest Repeating Character Replacement,https://leetcode.com/problems/longest-repeating-character-replacement/,Status
+Sliding Window,76,Minimum Window Substring,https://leetcode.com/problems/minimum-window-substring/,Status
+Sliding Window,567,Permutation in String,https://leetcode.com/problems/permutation-in-string/,Status
+Sliding Window,239,Sliding Window Maximum,https://leetcode.com/problems/sliding-window-maximum/,Status
+Sliding Window,209,Minimum Size Subarray Sum,https://leetcode.com/problems/minimum-size-subarray-sum/,Status
+Sliding Window,438,Find All Anagrams in a String,https://leetcode.com/problems/find-all-anagrams-in-a-string/,Status
+Sliding Window,904,Fruit Into Baskets,https://leetcode.com/problems/fruit-into-baskets/,Status
+Stack,20,Valid Parentheses,https://leetcode.com/problems/valid-parentheses/,Status
+Stack,155,Min Stack,https://leetcode.com/problems/min-stack/,Status
+Stack,150,Evaluate Reverse Polish Notation,https://leetcode.com/problems/evaluate-reverse-polish-notation/,Status
+Stack,22,Generate Parentheses,https://leetcode.com/problems/generate-parentheses/,Status
+Stack,739,Daily Temperatures,https://leetcode.com/problems/daily-temperatures/,Status
+Stack,853,Car Fleet,https://leetcode.com/problems/car-fleet/,Status
+Stack,84,Largest Rectangle in Histogram,https://leetcode.com/problems/largest-rectangle-in-histogram/,Status
+Stack,496,Next Greater Element I,https://leetcode.com/problems/next-greater-element-i/,Status
+Stack,503,Next Greater Element II,https://leetcode.com/problems/next-greater-element-ii/,Status
+Binary Search,704,Binary Search,https://leetcode.com/problems/binary-search/,Status
+Binary Search,74,Search a 2D Matrix,https://leetcode.com/problems/search-a-2d-matrix/,Status
+Binary Search,875,Koko Eating Bananas,https://leetcode.com/problems/koko-eating-bananas/,Status
+Binary Search,33,Search in Rotated Sorted Array,https://leetcode.com/problems/search-in-rotated-sorted-array/,Status
+Binary Search,153,Find Minimum in Rotated Sorted Array,https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/,Status
+Binary Search,4,Median of Two Sorted Arrays,https://leetcode.com/problems/median-of-two-sorted-arrays/,Status
+Binary Search,981,Time Based Key-Value Store,https://leetcode.com/problems/time-based-key-value-store/,Status
+Binary Search,34,Find First and Last Position of Element in Sorted Array,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/,Status
+Binary Search,69,Sqrt(x),https://leetcode.com/problems/sqrtx/,Status
+Binary Search,374,Guess Number Higher or Lower,https://leetcode.com/problems/guess-number-higher-or-lower/,Status
+Linked List,206,Reverse Linked List,https://leetcode.com/problems/reverse-linked-list/,Status
+Linked List,21,Merge Two Sorted Lists,https://leetcode.com/problems/merge-two-sorted-lists/,Status
+Linked List,143,Reorder List,https://leetcode.com/problems/reorder-list/,Status
+Linked List,19,Remove Nth Node From End of List,https://leetcode.com/problems/remove-nth-node-from-end-of-list/,Status
+Linked List,141,Linked List Cycle,https://leetcode.com/problems/linked-list-cycle/,Status
+Linked List,2,Add Two Numbers,https://leetcode.com/problems/add-two-numbers/,Status
+Linked List,23,Merge k Sorted Lists,https://leetcode.com/problems/merge-k-sorted-lists/,Status
+Linked List,138,Copy List with Random Pointer,https://leetcode.com/problems/copy-list-with-random-pointer/,Status
+Linked List,287,Find the Duplicate Number,https://leetcode.com/problems/find-the-duplicate-number/,Status
+Linked List,160,Intersection of Two Linked Lists,https://leetcode.com/problems/intersection-of-two-linked-lists/,Status
+Linked List,876,Middle of the Linked List,https://leetcode.com/problems/middle-of-the-linked-list/,Status
+Linked List,203,Remove Linked List Elements,https://leetcode.com/problems/remove-linked-list-elements/,Status
+Linked List,234,Palindrome Linked List,https://leetcode.com/problems/palindrome-linked-list/,Status
+Trees,226,Invert Binary Tree,https://leetcode.com/problems/invert-binary-tree/,Status
+Trees,104,Maximum Depth of Binary Tree,https://leetcode.com/problems/maximum-depth-of-binary-tree/,Status
+Trees,543,Diameter of Binary Tree,https://leetcode.com/problems/diameter-of-binary-tree/,Status
+Trees,110,Balanced Binary Tree,https://leetcode.com/problems/balanced-binary-tree/,Status
+Trees,100,Same Tree,https://leetcode.com/problems/same-tree/,Status
+Trees,572,Subtree of Another Tree,https://leetcode.com/problems/subtree-of-another-tree/,Status
+Trees,235,Lowest Common Ancestor of a Binary Search Tree,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/,Status
+Trees,236,Lowest Common Ancestor of a Binary Tree,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/,Status
+Trees,102,Binary Tree Level Order Traversal,https://leetcode.com/problems/binary-tree-level-order-traversal/,Status
+Trees,199,Binary Tree Right Side View,https://leetcode.com/problems/binary-tree-right-side-view/,Status
+Trees,98,Validate Binary Search Tree,https://leetcode.com/problems/validate-binary-search-tree/,Status
+Trees,230,Kth Smallest Element in a BST,https://leetcode.com/problems/kth-smallest-element-in-a-bst/,Status
+Trees,105,Construct Binary Tree from Preorder and Inorder Traversal,https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/,Status
+Trees,124,Binary Tree Maximum Path Sum,https://leetcode.com/problems/binary-tree-maximum-path-sum/,Status
+Trees,297,Serialize and Deserialize Binary Tree,https://leetcode.com/problems/serialize-and-deserialize-binary-tree/,Status
+Trees,112,Path Sum,https://leetcode.com/problems/path-sum/,Status
+Trees,113,Path Sum II,https://leetcode.com/problems/path-sum-ii/,Status
+Trees,1448,Count Good Nodes in Binary Tree,https://leetcode.com/problems/count-good-nodes-in-binary-tree/,Status
+Trees,101,Symmetric Tree,https://leetcode.com/problems/symmetric-tree/,Status
+Trees,617,Merge Two Binary Trees,https://leetcode.com/problems/merge-two-binary-trees/,Status
+Tries,208,Implement Trie (Prefix Tree),https://leetcode.com/problems/implement-trie-prefix-tree/,Status
+Tries,211,Design Add and Search Words Data Structure,https://leetcode.com/problems/design-add-and-search-words-data-structure/,Status
+Tries,212,Word Search II,https://leetcode.com/problems/word-search-ii/,Status
+Tries,648,Replace Words,https://leetcode.com/problems/replace-words/,Status
+Tries,677,Map Sum Pairs,https://leetcode.com/problems/map-sum-pairs/,Status
+Heap / Priority Queue,215,Kth Largest Element in an Array,https://leetcode.com/problems/kth-largest-element-in-an-array/,Status
+Heap / Priority Queue,1046,Last Stone Weight,https://leetcode.com/problems/last-stone-weight/,Status
+Heap / Priority Queue,973,K Closest Points to Origin,https://leetcode.com/problems/k-closest-points-to-origin/,Status
+Heap / Priority Queue,703,Kth Largest Element in a Stream,https://leetcode.com/problems/kth-largest-element-in-a-stream/,Status
+Heap / Priority Queue,621,Task Scheduler,https://leetcode.com/problems/task-scheduler/,Status
+Heap / Priority Queue,295,Find Median from Data Stream,https://leetcode.com/problems/find-median-from-data-stream/,Status
+Heap / Priority Queue,355,Design Twitter,https://leetcode.com/problems/design-twitter/,Status
+Heap / Priority Queue,378,Kth Smallest Element in a Sorted Matrix,https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/,Status
+Backtracking,78,Subsets,https://leetcode.com/problems/subsets/,Status
+Backtracking,90,Subsets II,https://leetcode.com/problems/subsets-ii/,Status
+Backtracking,39,Combination Sum,https://leetcode.com/problems/combination-sum/,Status
+Backtracking,40,Combination Sum II,https://leetcode.com/problems/combination-sum-ii/,Status
+Backtracking,46,Permutations,https://leetcode.com/problems/permutations/,Status
+Backtracking,47,Permutations II,https://leetcode.com/problems/permutations-ii/,Status
+Backtracking,79,Word Search,https://leetcode.com/problems/word-search/,Status
+Backtracking,131,Palindrome Partitioning,https://leetcode.com/problems/palindrome-partitioning/,Status
+Backtracking,17,Letter Combinations of a Phone Number,https://leetcode.com/problems/letter-combinations-of-a-phone-number/,Status
+Backtracking,51,N-Queens,https://leetcode.com/problems/n-queens/,Status
+Backtracking,784,Letter Case Permutation,https://leetcode.com/problems/letter-case-permutation/,Status
+Graphs,200,Number of Islands,https://leetcode.com/problems/number-of-islands/,Status
+Graphs,133,Clone Graph,https://leetcode.com/problems/clone-graph/,Status
+Graphs,695,Max Area of Island,https://leetcode.com/problems/max-area-of-island/,Status
+Graphs,417,Pacific Atlantic Water Flow,https://leetcode.com/problems/pacific-atlantic-water-flow/,Status
+Graphs,207,Course Schedule,https://leetcode.com/problems/course-schedule/,Status
+Graphs,210,Course Schedule II,https://leetcode.com/problems/course-schedule-ii/,Status
+Graphs,994,Rotting Oranges,https://leetcode.com/problems/rotting-oranges/,Status
+Graphs,547,Number of Provinces,https://leetcode.com/problems/number-of-provinces/,Status
+Graphs,323,Number of Connected Components in an Undirected Graph,https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/,Status
+Graphs,261,Graph Valid Tree,https://leetcode.com/problems/graph-valid-tree/,Status
+Graphs,127,Word Ladder,https://leetcode.com/problems/word-ladder/,Status
+Graphs,787,Cheapest Flights Within K Stops,https://leetcode.com/problems/cheapest-flights-within-k-stops/,Status
+Graphs,1584,Min Cost to Connect All Points,https://leetcode.com/problems/min-cost-to-connect-all-points/,Status
+Graphs,743,Network Delay Time,https://leetcode.com/problems/network-delay-time/,Status
+Graphs,399,Evaluate Division,https://leetcode.com/problems/evaluate-division/,Status
+Graphs,310,Minimum Height Trees,https://leetcode.com/problems/minimum-height-trees/,Status
+1D DP,70,Climbing Stairs,https://leetcode.com/problems/climbing-stairs/,Status
+1D DP,198,House Robber,https://leetcode.com/problems/house-robber/,Status
+1D DP,213,House Robber II,https://leetcode.com/problems/house-robber-ii/,Status
+1D DP,322,Coin Change,https://leetcode.com/problems/coin-change/,Status
+1D DP,300,Longest Increasing Subsequence,https://leetcode.com/problems/longest-increasing-subsequence/,Status
+1D DP,139,Word Break,https://leetcode.com/problems/word-break/,Status
+1D DP,5,Longest Palindromic Substring,https://leetcode.com/problems/longest-palindromic-substring/,Status
+1D DP,647,Palindromic Substrings,https://leetcode.com/problems/palindromic-substrings/,Status
+1D DP,91,Decode Ways,https://leetcode.com/problems/decode-ways/,Status
+1D DP,152,Maximum Product Subarray,https://leetcode.com/problems/maximum-product-subarray/,Status
+1D DP,416,Partition Equal Subset Sum,https://leetcode.com/problems/partition-equal-subset-sum/,Status
+1D DP,746,Min Cost Climbing Stairs,https://leetcode.com/problems/min-cost-climbing-stairs/,Status
+2D DP,62,Unique Paths,https://leetcode.com/problems/unique-paths/,Status
+2D DP,1143,Longest Common Subsequence,https://leetcode.com/problems/longest-common-subsequence/,Status
+2D DP,518,Coin Change 2,https://leetcode.com/problems/coin-change-2/,Status
+2D DP,309,Best Time to Buy and Sell Stock with Cooldown,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/,Status
+2D DP,72,Edit Distance,https://leetcode.com/problems/edit-distance/,Status
+2D DP,63,Unique Paths II,https://leetcode.com/problems/unique-paths-ii/,Status
+2D DP,494,Target Sum,https://leetcode.com/problems/target-sum/,Status
+2D DP,377,Combination Sum IV,https://leetcode.com/problems/combination-sum-iv/,Status
+2D DP,97,Interleaving String,https://leetcode.com/problems/interleaving-string/,Status
+2D DP,10,Regular Expression Matching,https://leetcode.com/problems/regular-expression-matching/,Status
+2D DP,44,Wildcard Matching,https://leetcode.com/problems/wildcard-matching/,Status
+2D DP,877,Stone Game,https://leetcode.com/problems/stone-game/,Status
+2D DP,64,Minimum Path Sum,https://leetcode.com/problems/minimum-path-sum/,Status
+Greedy,55,Jump Game,https://leetcode.com/problems/jump-game/,Status
+Greedy,45,Jump Game II,https://leetcode.com/problems/jump-game-ii/,Status
+Greedy,881,Boats to Save People,https://leetcode.com/problems/boats-to-save-people/,Status
+Greedy,134,Gas Station,https://leetcode.com/problems/gas-station/,Status
+Greedy,57,Insert Interval,https://leetcode.com/problems/insert-interval/,Status
+Greedy,435,Non-overlapping Intervals,https://leetcode.com/problems/non-overlapping-intervals/,Status
+Greedy,763,Partition Labels,https://leetcode.com/problems/partition-labels/,Status
+Greedy,56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Status
+Greedy,452,Minimum Number of Arrows to Burst Balloons,https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/,Status
+Greedy,122,Best Time to Buy and Sell Stock II,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/,Status
+Intervals,252,Meeting Rooms,https://leetcode.com/problems/meeting-rooms/,Status
+Intervals,253,Meeting Rooms II,https://leetcode.com/problems/meeting-rooms-ii/,Status
+Intervals,435,Non-overlapping Intervals,https://leetcode.com/problems/non-overlapping-intervals/,Status
+Intervals,56,Merge Intervals,https://leetcode.com/problems/merge-intervals/,Status
+Intervals,57,Insert Interval,https://leetcode.com/problems/insert-interval/,Status
+Bit Manipulation,268,Missing Number,https://leetcode.com/problems/missing-number/,Status
+Bit Manipulation,191,Number of 1 Bits,https://leetcode.com/problems/number-of-1-bits/,Status
+Bit Manipulation,338,Counting Bits,https://leetcode.com/problems/counting-bits/,Status
+Bit Manipulation,190,Reverse Bits,https://leetcode.com/problems/reverse-bits/,Status
+Bit Manipulation,136,Single Number,https://leetcode.com/problems/single-number/,Status
+Bit Manipulation,371,Sum of Two Integers,https://leetcode.com/problems/sum-of-two-integers/,Status
+Bit Manipulation,7,Reverse Integer,https://leetcode.com/problems/reverse-integer/,Status
+Math & Geometry,66,Plus One,https://leetcode.com/problems/plus-one/,Status
+Math & Geometry,202,Happy Number,https://leetcode.com/problems/happy-number/,Status
+Math & Geometry,204,Count Primes,https://leetcode.com/problems/count-primes/,Status
+Math & Geometry,50,Pow(x, n),Status
+Math & Geometry,43,Multiply Strings,https://leetcode.com/problems/multiply-strings/,Status
+Math & Geometry,67,Add Binary,https://leetcode.com/problems/add-binary/,Status
+Math & Geometry,29,Divide Two Integers,https://leetcode.com/problems/divide-two-integers/,Status
+Math & Geometry,149,Max Points on a Line,https://leetcode.com/problems/max-points-on-a-line/,Status
+Advanced & Mixed,348,Design Tic-Tac-Toe,https://leetcode.com/problems/design-tic-tac-toe/,Status
+Advanced & Mixed,359,Logger Rate Limiter,https://leetcode.com/problems/logger-rate-limiter/,Status
+Advanced & Mixed,1299,Replace Elements with Greatest Element on Right Side,https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/,Status
+Advanced & Mixed,118,Pascal's Triangle,https://leetcode.com/problems/pascals-triangle/,Status
+Advanced & Mixed,119,Pascal's Triangle II,https://leetcode.com/problems/pascals-triangle-ii/,Status
+Advanced & Mixed,163,Missing Ranges,https://leetcode.com/problems/missing-ranges/,Status
+Advanced & Mixed,299,Bulls and Cows,https://leetcode.com/problems/bulls-and-cows/,Status
+Advanced & Mixed,1762,Buildings With an Ocean View,https://leetcode.com/problems/buildings-with-an-ocean-view/,Status
+Advanced & Mixed,498,Diagonal Traverse,https://leetcode.com/problems/diagonal-traverse/,Status
+Advanced & Mixed,724,Find Pivot Index,https://leetcode.com/problems/find-pivot-index/,Status
+Advanced & Mixed,80,Remove Duplicates from Sorted Array II,https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/,Status
+Advanced & Mixed,61,Rotate List,https://leetcode.com/problems/rotate-list/,Status
+Advanced & Mixed,142,Linked List Cycle II,https://leetcode.com/problems/linked-list-cycle-ii/,Status
+Advanced & Mixed,713,Subarray Product Less Than K,https://leetcode.com/problems/subarray-product-less-than-k/,Status
+Advanced & Mixed,1004,Max Consecutive Ones III,https://leetcode.com/problems/max-consecutive-ones-iii/,Status
+Advanced & Mixed,187,Repeated DNA Sequences,https://leetcode.com/problems/repeated-dna-sequences/,Status
+Advanced & Mixed,1493,Longest Subarray of 1's After Deleting One Element,https://leetcode.com/problems/longest-subarray-of-1s-after-deleting-one-element/,Status
+Advanced & Mixed,394,Decode String,https://leetcode.com/problems/decode-string/,Status
+Advanced & Mixed,71,Simplify Path,https://leetcode.com/problems/simplify-path/,Status
+Advanced & Mixed,1249,Minimum Remove to Make Valid Parentheses,https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/,Status
+Advanced & Mixed,682,Baseball Game,https://leetcode.com/problems/baseball-game/,Status
+Advanced & Mixed,946,Validate Stack Sequences,https://leetcode.com/problems/validate-stack-sequences/,Status
+Advanced & Mixed,81,Search in Rotated Sorted Array II,https://leetcode.com/problems/search-in-rotated-sorted-array-ii/,Status
+Advanced & Mixed,162,Find Peak Element,https://leetcode.com/problems/find-peak-element/,Status
+Advanced & Mixed,278,First Bad Version,https://leetcode.com/problems/first-bad-version/,Status
+Advanced & Mixed,410,Split Array Largest Sum,https://leetcode.com/problems/split-array-largest-sum/,Status
+Advanced & Mixed,1283,Find the Smallest Divisor Given a Threshold,https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold/,Status
+Advanced & Mixed,445,Add Two Numbers II,https://leetcode.com/problems/add-two-numbers-ii/,Status
+Advanced & Mixed,24,Swap Nodes in Pairs,https://leetcode.com/problems/swap-nodes-in-pairs/,Status
+Advanced & Mixed,25,Reverse Nodes in k-Group,https://leetcode.com/problems/reverse-nodes-in-k-group/,Status
+Advanced & Mixed,328,Odd Even Linked List,https://leetcode.com/problems/odd-even-linked-list/,Status
+Advanced & Mixed,1721,Swapping Nodes in a Linked List,https://leetcode.com/problems/swapping-nodes-in-a-linked-list/,Status
+Advanced & Mixed,725,Split Linked List in Parts,https://leetcode.com/problems/split-linked-list-in-parts/,Status
+Advanced & Mixed,108,Convert Sorted Array to Binary Search Tree,https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/,Status
+Advanced & Mixed,103,Binary Tree Zigzag Level Order Traversal,https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/,Status
+Advanced & Mixed,116,Populating Next Right Pointers in Each Node,https://leetcode.com/problems/populating-next-right-pointers-in-each-node/,Status
+Advanced & Mixed,114,Flatten Binary Tree to Linked List,https://leetcode.com/problems/flatten-binary-tree-to-linked-list/,Status
+Advanced & Mixed,429,N-ary Tree Level Order Traversal,https://leetcode.com/problems/n-ary-tree-level-order-traversal/,Status
+Advanced & Mixed,515,Find Largest Value in Each Tree Row,https://leetcode.com/problems/find-largest-value-in-each-tree-row/,Status
+Advanced & Mixed,662,Maximum Width of Binary Tree,https://leetcode.com/problems/maximum-width-of-binary-tree/,Status
+Advanced & Mixed,863,All Nodes Distance K in Binary Tree,https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/,Status
+Advanced & Mixed,450,Delete Node in a BST,https://leetcode.com/problems/delete-node-in-a-bst/,Status
+Advanced & Mixed,701,Insert into a Binary Search Tree,https://leetcode.com/problems/insert-into-a-binary-search-tree/,Status
+Advanced & Mixed,404,Sum of Left Leaves,https://leetcode.com/problems/sum-of-left-leaves/,Status
+Advanced & Mixed,257,Binary Tree Paths,https://leetcode.com/problems/binary-tree-paths/,Status
+Advanced & Mixed,216,Combination Sum III,https://leetcode.com/problems/combination-sum-iii/,Status
+Advanced & Mixed,77,Combinations,https://leetcode.com/problems/combinations/,Status
+Advanced & Mixed,301,Remove Invalid Parentheses,https://leetcode.com/problems/remove-invalid-parentheses/,Status
+Advanced & Mixed,473,Matchsticks to Square,https://leetcode.com/problems/matchsticks-to-square/,Status
+Advanced & Mixed,698,Partition to K Equal Sum Subsets,https://leetcode.com/problems/partition-to-k-equal-sum-subsets/,Status
+Advanced & Mixed,52,N-Queens II,https://leetcode.com/problems/n-queens-ii/,Status
+Advanced & Mixed,130,Surrounded Regions,https://leetcode.com/problems/surrounded-regions/,Status
+Advanced & Mixed,733,Flood Fill,https://leetcode.com/problems/flood-fill/,Status
+Advanced & Mixed,1192,Critical Connections in a Network,https://leetcode.com/problems/critical-connections-in-a-network/,Status
+Advanced & Mixed,269,Alien Dictionary,https://leetcode.com/problems/alien-dictionary/,Status
+Advanced & Mixed,797,All Paths From Source to Target,https://leetcode.com/problems/all-paths-from-source-to-target/,Status
+Advanced & Mixed,841,Keys and Rooms,https://leetcode.com/problems/keys-and-rooms/,Status
+Advanced & Mixed,1162,As Far from Land as Possible,https://leetcode.com/problems/as-far-from-land-as-possible/,Status
+Advanced & Mixed,1971,Find if Path Exists in Graph,https://leetcode.com/problems/find-if-path-exists-in-graph/,Status
+Advanced & Mixed,802,Find Eventual Safe States,https://leetcode.com/problems/find-eventual-safe-states/,Status
+Advanced & Mixed,1091,Shortest Path in Binary Matrix,https://leetcode.com/problems/shortest-path-in-binary-matrix/,Status
+Advanced & Mixed,718,Maximum Length of Repeated Subarray,https://leetcode.com/problems/maximum-length-of-repeated-subarray/,Status
+Advanced & Mixed,1137,N-th Tribonacci Number,https://leetcode.com/problems/n-th-tribonacci-number/,Status
+Advanced & Mixed,509,Fibonacci Number,https://leetcode.com/problems/fibonacci-number/,Status
+Advanced & Mixed,115,Distinct Subsequences,https://leetcode.com/problems/distinct-subsequences/,Status
+Advanced & Mixed,583,Delete Operation for Two Strings,https://leetcode.com/problems/delete-operation-for-two-strings/,Status
+Advanced & Mixed,714,Best Time to Buy and Sell Stock with Transaction Fee,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/,Status
+Advanced & Mixed,1312,Minimum Insertion Steps to Make a String Palindrome,https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/,Status
+Advanced & Mixed,1048,Longest String Chain,https://leetcode.com/problems/longest-string-chain/,Status
+Advanced & Mixed,368,Largest Divisible Subset,https://leetcode.com/problems/largest-divisible-subset/,Status
+Advanced & Mixed,931,Minimum Falling Path Sum,https://leetcode.com/problems/minimum-falling-path-sum/,Status
+Advanced & Mixed,1277,Count Square Submatrices with All Ones,https://leetcode.com/problems/count-square-submatrices-with-all-ones/,Status
+Advanced & Mixed,221,Maximal Square,https://leetcode.com/problems/maximal-square/,Status
+Advanced & Mixed,188,Best Time to Buy and Sell Stock IV,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/,Status
+Advanced & Mixed,312,Burst Balloons,https://leetcode.com/problems/burst-balloons/,Status
+Advanced & Mixed,991,Broken Calculator,https://leetcode.com/problems/broken-calculator/,Status
+Advanced & Mixed,406,Queue Reconstruction by Height,https://leetcode.com/problems/queue-reconstruction-by-height/,Status
+Advanced & Mixed,678,Valid Parenthesis String,https://leetcode.com/problems/valid-parenthesis-string/,Status
+Advanced & Mixed,1899,Merge Triplets to Form Target Triplet,https://leetcode.com/problems/merge-triplets-to-form-target-triplet/,Status
+Advanced & Mixed,921,Minimum Add to Make Parentheses Valid,https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/,Status
+Advanced & Mixed,1029,Two City Scheduling,https://leetcode.com/problems/two-city-scheduling/,Status
+Advanced & Mixed,1328,Break a Palindrome,https://leetcode.com/problems/break-a-palindrome/,Status
+Advanced & Mixed,659,Split Array into Consecutive Subsequences,https://leetcode.com/problems/split-array-into-consecutive-subsequences/,Status
+Advanced & Mixed,895,Maximum Frequency Stack,https://leetcode.com/problems/maximum-frequency-stack/,Status
+Advanced & Mixed,264,Ugly Number II,https://leetcode.com/problems/ugly-number-ii/,Status
+Advanced & Mixed,313,Super Ugly Number,https://leetcode.com/problems/super-ugly-number/,Status
+Advanced & Mixed,1642,Furthest Building You Can Reach,https://leetcode.com/problems/furthest-building-you-can-reach/,Status
+Advanced & Mixed,1338,Reduce Array Size to The Half,https://leetcode.com/problems/reduce-array-size-to-the-half/,Status
+Advanced & Mixed,137,Single Number II,https://leetcode.com/problems/single-number-ii/,Status
+Advanced & Mixed,260,Single Number III,https://leetcode.com/problems/single-number-iii/,Status
+Advanced & Mixed,461,Hamming Distance,https://leetcode.com/problems/hamming-distance/,Status
+Advanced & Mixed,476,Number Complement,https://leetcode.com/problems/number-complement/,Status
+Advanced & Mixed,1680,Concatenation of Consecutive Binary Numbers,https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers/,Status
+Advanced & Mixed,231,Power of Two,https://leetcode.com/problems/power-of-two/,Status
+Advanced & Mixed,342,Power of Four,https://leetcode.com/problems/power-of-four/,Status
+Advanced & Mixed,326,Power of Three,https://leetcode.com/problems/power-of-three/,Status
+Advanced & Mixed,9,Palindrome Number,https://leetcode.com/problems/palindrome-number/,Status
+Advanced & Mixed,172,Factorial Trailing Zeroes,https://leetcode.com/problems/factorial-trailing-zeroes/,Status
+Advanced & Mixed,258,Add Digits,https://leetcode.com/problems/add-digits/,Status
+Advanced & Mixed,13,Roman to Integer,https://leetcode.com/problems/roman-to-integer/,Status
+Design,146,LRU Cache,https://leetcode.com/problems/lru-cache/,Status
+Design,460,LFU Cache,https://leetcode.com/problems/lfu-cache/,Status
+Design,380,Insert Delete GetRandom O(1),https://leetcode.com/problems/insert-delete-getrandom-o1/,Status
+Design,381,Insert Delete GetRandom O(1) - Duplicates allowed,https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/,Status
+Design,1570,Dot Product of Two Sparse Vectors,https://leetcode.com/problems/dot-product-of-two-sparse-vectors/,Status
+Design,622,Design Circular Queue,https://leetcode.com/problems/design-circular-queue/,Status
+Design,641,Design Circular Deque,https://leetcode.com/problems/design-circular-deque/,Status
+Design,706,Design HashMap,https://leetcode.com/problems/design-hashmap/,Status
+Design,705,Design HashSet,https://leetcode.com/problems/design-hashset/,Status
+Design,1146,Snapshot Array,https://leetcode.com/problems/snapshot-array/,Status

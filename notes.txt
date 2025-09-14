@@ -1,0 +1,44 @@
+22.) Merge and Quick Sort   205.75  Done
+23.) OOPS   430.5   Done
+24.)Linked List Part 1   159    Done
+25.)Linked List Part 2   448.5  Done
+26.)Linked List Part 3   112    Done
+27.)Stack Part 1   256  Done
+28.)Stack Part 2   246  Done
+29.)Queue   292.5   Done
+30.)Binary tree part 1   246.75  Done
+31.)Binary tree part 2   254.5   Done
+32.)Binary Search Time   331     Done
+33.)Hashmaps and Hashsets   290.5   Done
+34.)Heaps and Priority Queue Part 1   191   Done
+35.)Heaps and Priority Queue Part 2   204   Done
+36.)Prefix Sum   182    Done
+37.)Sliding Windows   213
+38.)Dynamic Programming 1   302.25
+39.)Dynamic Programming 2   311
+40.)Dynamic Programming 3   239
+41.)Dynamic Programming 4   168
+42.)Backtracking    172
+43.)Greedy  149
+44.)Bit Manipulation    315
+45.)Projects    204
+46.)Graph Part 1
+47.)Graph Part 2
+48.)Graph Part 3
+49.)Graph Part 4
+50.)Graph Part 5
+
+
+Longest Common Substring (Tabulation)
+Length of Longest Common Substring (Tabulation)
+Shortest Common Supersequence
+Palindromic Substring
+Longest Palindromic Substring
+Diameter of a Binary Tree
+Balanced Binary Tree
+Binary Tree Maximum Path Sum
+Unique Binary Search Trees
+Longest Increasing Subsequence
+Minimum number of removals to make mountain array
+Russian Doll Envelopes
+
